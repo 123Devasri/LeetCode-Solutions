@@ -3,7 +3,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-## Database
+## SQL 50 - SELECT
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
