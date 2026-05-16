@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
