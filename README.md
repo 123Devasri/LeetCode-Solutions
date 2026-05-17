@@ -71,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
