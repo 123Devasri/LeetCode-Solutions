@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0881-boats-to-save-people](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0881-boats-to-save-people](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -56,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0881-boats-to-save-people](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
