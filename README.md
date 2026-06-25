@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/123Devasri/LeetCode-Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Binary Search
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [1480-running-sum-of-1d-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## String Matching
 |  |
 | ------- |
