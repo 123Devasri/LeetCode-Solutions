@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0896-monotonic-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
