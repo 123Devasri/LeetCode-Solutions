@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
@@ -236,5 +237,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [1672-richest-customer-wealth](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
