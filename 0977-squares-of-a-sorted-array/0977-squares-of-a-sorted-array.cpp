@@ -1,13 +1,16 @@
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
-        vector<int>square(nums.size());int i=nums.size()-1,left=0,right=nums.size()-1;
-        while(left<=right){
-            int large= max(abs(nums[left]),abs(nums[right]));
-            square[i]=large*large;i--;
-            if(abs(nums[left])>abs(nums[right]))left++;
-            else right--;
-        }
-        return square;
+       int i=0,j=nums.size()-1,k=nums.size()-1;vector<int>Ans(nums.size(),0);
+while(i<=j){
+       if(nums[i]*nums[i] < nums[j]* nums[j]){
+              Ans[k]=nums[j]*nums[j];j--;k--;
+       }
+        else{
+                        Ans[k]=nums[i]*nums[i];i++;k--;
+          }
+}
+return Ans;
+ 
     }
 };
