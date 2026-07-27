@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Linked List
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## String Matching
 |  |
