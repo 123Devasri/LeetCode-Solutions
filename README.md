@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0704-binary-search](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
