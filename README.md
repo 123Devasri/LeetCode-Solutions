@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/123Devasri/LeetCode-Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Divide and Conquer
 |  |
