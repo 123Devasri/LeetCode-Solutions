@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0876-middle-of-the-linked-list](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
