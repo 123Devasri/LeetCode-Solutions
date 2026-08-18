@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
@@ -330,4 +333,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
