@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
@@ -336,4 +340,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
