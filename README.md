@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0565-array-nesting) |
+| [0566-reshape-the-matrix](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0289-game-of-life) |
+| [0566-reshape-the-matrix](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0289-game-of-life) |
+| [0566-reshape-the-matrix](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
