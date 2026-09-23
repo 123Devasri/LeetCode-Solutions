@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1049-last-stone-weight-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## Stack
 |  |
 | ------- |
@@ -379,8 +381,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
