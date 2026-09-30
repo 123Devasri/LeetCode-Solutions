@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1920-build-array-from-permutation](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/123Devasri/LeetCode-Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3875-construct-uniform-parity-array-i](https://github.com/123Devasri/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1014-best-sightseeing-pair) |
 | [1049-last-stone-weight-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
 | ------- |
