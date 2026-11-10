@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0456-132-pattern](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0525-contiguous-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0456-132-pattern](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Database
@@ -523,4 +527,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
