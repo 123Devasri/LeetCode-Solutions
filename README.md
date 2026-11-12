@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0896-monotonic-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
