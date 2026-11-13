@@ -11,7 +11,7 @@ public:
             if(get<1>(time[i])>=e){
                 e=get<0>(time[i]);
             }
-            else {
+            else{
                 count+=1;
                 }
         }
