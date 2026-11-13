@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Sorting
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Greedy
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1014-best-sightseeing-pair) |
 | [1049-last-stone-weight-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
