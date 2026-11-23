@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0392-is-subsequence) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0221-maximal-square](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0566-reshape-the-matrix](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
