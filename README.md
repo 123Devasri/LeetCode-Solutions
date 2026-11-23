@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0227-basic-calculator-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0162-find-peak-element) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -587,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -662,4 +667,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
