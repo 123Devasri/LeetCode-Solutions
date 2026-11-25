@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1701-average-waiting-time](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1701-average-waiting-time) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1833-maximum-ice-cream-bars](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/123Devasri/LeetCode-Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/123Devasri/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1833-maximum-ice-cream-bars](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1833-maximum-ice-cream-bars](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1833-maximum-ice-cream-bars](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Matrix
 |  |
 | ------- |
