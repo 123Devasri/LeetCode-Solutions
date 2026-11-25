@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2390-removing-stars-from-a-string](https://github.com/123Devasri/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Greedy
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/123Devasri/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Sliding Window
 |  |
 | ------- |
