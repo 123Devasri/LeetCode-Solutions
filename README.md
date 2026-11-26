@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0456-132-pattern) |
+| [0473-matchsticks-to-square](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0473-matchsticks-to-square](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0645-set-mismatch](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 ## Recursion
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0473-matchsticks-to-square](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0494-target-sum) |
 ## Ordered Set
 |  |
@@ -780,4 +784,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
