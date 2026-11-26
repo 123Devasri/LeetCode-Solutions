@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0139-word-break) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0090-subsets-ii) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0289-game-of-life) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0565-array-nesting](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0565-array-nesting) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Bucket Sort
@@ -667,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/123Devasri/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
